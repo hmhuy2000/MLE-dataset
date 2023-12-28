@@ -1,0 +1,10 @@
+hydra-core==1.0.6
+Cython<3
+protobuf==3.20.*
+tqdm
+wandb
+mujoco_py
+opencv-python
+gymnasium[atari,accept-rom-license]
+gym[atari,accept-rom-license]
+h5py
